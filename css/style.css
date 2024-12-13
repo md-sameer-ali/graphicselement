@@ -1086,7 +1086,7 @@ p {
     padding-bottom: 0px;
 }
 
-.footer_wrapper::after {
+/* .footer_wrapper::after {
     content: "";
     width: 100%;
     height: 100%;
@@ -1096,7 +1096,7 @@ p {
     position: absolute;
     bottom: 0;
     right: 2%;
-}
+} */
 
 .footer_area {
     border-bottom: 1px solid #ffffff;
