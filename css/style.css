@@ -331,6 +331,7 @@ p {
     position: absolute;
     top: 3px;
     left: 2px;
+    filter: hue-rotate(110deg);
 }
 
 .common_title_area :is(p, span, li, h2, h3, h4) a {
