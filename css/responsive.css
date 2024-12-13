@@ -382,6 +382,9 @@
         max-width: 200px;
         margin-top: -30px;
     }
+    .process_card {
+        width: 46%;
+    }
 
 
     .safey_content_box_area .common_title_area {
@@ -738,6 +741,9 @@
     }
     .commitment_item_area {
         gap: 30px 60px;
+    }
+    .process_card {
+        width: 100%;
     }
 
     /* SC TEAM PAGE  */
